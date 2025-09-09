@@ -1,0 +1,32 @@
+src------
+1)assets - image
+2)Pages--Home-- homecss,, home jsx
+         video--Video Css,, video jsx
+3)components--
+              navbar--navabar jsx, navbar Css
+
+
+import navbar in app
+
+navbar--return--nav.flex-div-
+                             nav-left flex -div
+                                               img.menu-icon
+                                               img.logo
+                             nav-middle flex -div
+                                              input
+                                              img
+                             nav-right flex -div
+                             img*3
+                             img.user-icon
+
+
+within app --navbar
+routes route path='/' ele=home
+route--pathvideo/:categoryId/:videoId ele=video                      
+
+
+
+
+API KEY- AIzaSyD4ZGhGbNUBdsadJ-atbCRXI7EzhA7bB2Q
+
+
